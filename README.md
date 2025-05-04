@@ -17,3 +17,9 @@ Please share your email / github account, so that I may add you directly,
 and you will receive an invitation link by email.
 
 I am easiest to contact here: [LinkedIn](https://www.linkedin.com/in/gustav-collin-rasmussen/)
+
+## TODOs
+
+- [ ] Try to add all course participants to this repo ahead of the event
+- [ ] Export ppt as pdf and add to talk folder
+- [ ] Add quiz questions and answers
