@@ -22,4 +22,4 @@ I am easiest to contact here: [LinkedIn](https://www.linkedin.com/in/gustav-coll
 
 - [ ] Try to add all course participants to this repo ahead of the event
 - [ ] Export ppt as pdf and add to talk folder
-- [ ] Add quiz questions and answers
+- [x] Add quiz questions and answers
