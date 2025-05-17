@@ -12,6 +12,10 @@ part of medical and molecular imaging phd symposium at slangerup 2025
 - Tooling as solid foundation for working with AI (note system, terminal, git, CI/CD etc.), with sample repos (dotfiles, gh-actions, code-vault, ...)
 - Q&A
 
+## Resources
+
+See the [resource section](./resources.md) for further learning.
+
 ## Getting access
 
 If you are in the audience today,
