@@ -5,8 +5,11 @@ part of medical and molecular imaging phd symposium at slangerup 2025
 ## Agenda
 
 - Talk: "Applied AI in pharma R&D", about AI adoption in R&D at Novo Nordisk A/S
-- [live demo of MNIST classification using DNN etc.](https://github.com/TheNewThinkTank/mnist-classifyer)
+- [live demo of MNIST classification using DNN etc.](https://github.com/TheNewThinkTank-AI/mnist-classifier)
+- Optionally, VAE and/or sentiment analysis/twitter-scraping/word-cloud
 - Interactive Quiz, with answers
+- Next steps (books, courses, projects)
+- Tooling as solid foundation for working with AI (note system, terminal, git, CI/CD etc.), with sample repos (dotfiles, gh-actions, code-vault, ...)
 - Q&A
 
 ## Getting access
