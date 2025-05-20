@@ -12,7 +12,7 @@ Part of Medical and Molecular Imaging PhD Symposium at Slangerup, May 2025
 
 ## Resources
 
-See the [resource section](./resources.md) for further learning.
+See the [resource section](./docs/resources.md) for further learning.
 
 ## Get in touch
 
