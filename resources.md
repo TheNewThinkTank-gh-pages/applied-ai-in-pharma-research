@@ -8,8 +8,5 @@ For creating AI agents and more:
 
 ## Learning
 
-TODO: complete below with links
-
-Book:
-
-Coursera Deep Learning specialization:
+- [AI: a guide for thinking humans](https://www.google.dk/books/edition/Artificial_Intelligence/VfSIDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
+- [Coursera Deep Learning specialization](https://www.coursera.org/specializations/deep-learning)
